@@ -1,0 +1,18 @@
+programa
+{
+	funcao inicio()
+	{
+	 	escreva("Eu Quero Emprego!")
+
+		inteiro CPF
+		cadeia nome, Emprego, Cargo
+
+	 	escreva("O seu CPF é: " )
+		leia(CPF)
+		escreva("Digite o nome do Empregado: ")
+		leia(nome)
+		escreva("Digite o nome do cargo: ")
+		leia(nome)
+		
+	}
+}
